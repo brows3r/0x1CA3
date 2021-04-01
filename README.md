@@ -1,7 +1,6 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
 	<br>
-
 </div>
 
 <br>
