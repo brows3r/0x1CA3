@@ -1,8 +1,8 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
+	<b>An internet god.</b>	
 	<br>
 </div>
-An internet god.
 <br>
 
 <center>
