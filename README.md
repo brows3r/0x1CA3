@@ -1,6 +1,6 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
-	<b>An internet god.</b>	
+	<b>O_O</b>	
 	<br>
 </div>
 <br>
