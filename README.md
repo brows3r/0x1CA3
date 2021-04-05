@@ -1,6 +1,6 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
-	<b>O_O</b>	
+	<b>i bet a cookie you're here because im arguing with you</b>	
 	<br>
 </div>
 <br>
