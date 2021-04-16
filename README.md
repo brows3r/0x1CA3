@@ -17,6 +17,6 @@
 <br>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=0x1CA3&style=flat-square">
+<img src="">
 
 </center>
