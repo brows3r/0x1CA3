@@ -1,7 +1,12 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
-	<b>i bet 2 cookies you're here because im arguing with you</b>	
-	<br>
+	<b>Hi, my name is 0x1CA3. I started learning/doing shit about 3 months ago</b>
+	<b>My qualities are:</b>
+	<b>   [-] Being an expert shit-talker on discord and calling people script kiddies</b>
+	<b>   [-] Knowing how to talk to women</b>
+	<b>   [-] Smoking tons of mariguana</b>
+	<b>   [-] Being 2 smart 4 U</b>
+	<br> 
 </div>
 <br>
 
