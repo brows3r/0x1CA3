@@ -2,13 +2,13 @@
 <div style='font-size:1.2em'>
 	<b>Hi, my name is 0x1CA3. I started learning/doing shit about 3 months ago. My qualities are: </b>
 	
-	      [-] Being an expert shit-talker on discord and calling people script kiddies</b>
+	      [-] Being an expert shit-talker on discord and calling people script kiddies
 	
-	      [-] Knowing how to talk to women</b>
+	      [-] Knowing how to talk to women
             
-              [-] Smoking tons of mariguana</b>
+              [-] Smoking tons of mariguana
 	
-	      [-] Being 2 smart 4 U</b>
+	      [-] Being 2 smart 4 U
 </div>
 <br>
 
