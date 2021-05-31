@@ -1,17 +1,14 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
-	<b>Hi, my name is 0x1CA3. I started learning/doing shit about 3 months ago</b>
-	<b> </b>
-	<b>My qualities are:</b>
-	<b> </b>
-	<b>   [-] Being an expert shit-talker on discord and calling people script kiddies</b>
-	<b> </b>
-	<b>   [-] Knowing how to talk to women</b>
-	<b> </b>
-	<b>   [-] Smoking tons of mariguana</b>
-	<b> </b>
-	<b>   [-] Being 2 smart 4 U</b>
-	<br> 
+	<b>Hi, my name is 0x1CA3. I started learning/doing shit about 3 months ago. My qualities are: </b>
+	
+	      [-] Being an expert shit-talker on discord and calling people script kiddies</b>
+	
+	      [-] Knowing how to talk to women</b>
+            
+              [-] Smoking tons of mariguana</b>
+	
+	      [-] Being 2 smart 4 U</b>
 </div>
 <br>
 
