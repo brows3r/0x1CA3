@@ -6,7 +6,7 @@
 	
 	      [-] Knowing how to talk to women
             
-              [-] Smoking tons of mariguana
+          [-] Smoking tons of k-k-kush
 	
 	      [-] Being 2 smart 4 U
 </div>
