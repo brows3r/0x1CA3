@@ -1,14 +1,5 @@
 # 0x1CA3
 <div style='font-size:1.2em'>
-	<b>Hi, my name is 0x1CA3. I started learning/doing shit about 3 months ago. My top qualities are: </b>
-	
-	  [-] Being an expert shit-talker on discord and calling people script kiddies
-	
-	  [-] Knowing how to talk to women
-            
-      [-] Smoking tons of k-k-kush
-	
-	  [-] Being 2 smart 4 U
 </div>
 <br>
 
